@@ -1,3 +1,73 @@
+#1.0.18 (2016-20-07)
+
+**Enhancements**
+ - add feature manage_repo by Alex Harvey.
+
+#1.0.17 (2016-09-05)
+
+**Deprecation**
+ - Deprecated archive installation method
+
+**Enhancements**
+ - Enabled systemd on EL7.
+
+#1.0.13 (2016-21-03)
+
+**Enhancements**
+ - Bug fix for Ubuntu
+
+#1.0.12 (2016-08-03)
+
+**Enhancements**
+ - More Beaker tests
+ - Readme improvements 
+ - Plugin ordering fix
+
+#1.0.11 (2016-08-03)
+
+**Enhancements**
+ - plugins install dir was incorrect
+ - manage_user default is now false 
+
+#1.0.9 (2016-07-03)
+
+**Enhancements**
+ - init bug fix
+ - simple plugin support - does not allow plugin updating. 
+
+**Documentation**
+ - plugins simple support
+
+#1.0.7 (2016-06-03)
+
+**Enhancements**
+ - Beaker tests
+ - Parameters refactoring
+ - use updated init script from elastic.co packages
+ - archive_dl_timeout feature - thanks to alexharv074
+ - log directory improvements - thanks to alexharv074
+ - updated scope.lookupvar syntax - thanks to alexharv074
+ - template conditions fixes - thanks to mklette
+ - better handling of pid file - - thanks to alexharv074
+ - disabled verbose mode for camptocamp/archive - thanks to alexharv074 
+
+**Documentation**
+ - Several updates
+
+#1.0.6 (2015-23-12)
+
+**Enhancements**
+ - config file key sorting.
+
+#1.0.5 (2015-18-12)
+
+**Enhancements**
+ - Replaced download url
+ - Update default version to 4.3.1
+
+**Documentation**
+ - Fixes some typos and linting
+
 #1.0.4 (2015-09-12)
 
 **Enhancements**
